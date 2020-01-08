@@ -1,3 +1,7 @@
+# This is a course I've been doing on Udemy to advance my css skills. Everything below is from the original course repo's readme and is not my work
+
+---
+
 # Course Material and FAQ for my Advanced CSS Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
