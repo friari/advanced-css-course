@@ -1,4 +1,4 @@
-# This is a course I've been doing on Udemy to advance my css skills. Everything below is from the original course repo's readme and is not my work
+# This is the coursework for a program  following on Udemy to develop and advance my css skills. Everything below the divider is from the original course repo's readme and is not my work.
 
 ---
 
